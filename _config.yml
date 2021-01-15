@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: nyanguk's TIL
-subtitle: "hello world"
+title:
+subtitle:
 email: lobgd9150@gmail.com
 name: jaeuk
 description: >
