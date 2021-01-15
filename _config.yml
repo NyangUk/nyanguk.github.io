@@ -95,7 +95,7 @@ descriptions:
     username: nyanguk
     url: https://github.com/nyanguk
     desc: Fork me on GitHub
-    share: false
+    share:  true
 
   # - name: LinkedIn
   #   icon: linkedin
