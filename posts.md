@@ -23,6 +23,13 @@ main_nav: true
     </li>
   {% endfor %}
   </ul>
+  <script src="https://utteranc.es/client.js"
+        repo="https://github.com/NyangUk/github-comments"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+  </script>
   {% if forloop.last == false %}<hr>{% endif %}
 {% endfor %}
 <br>
